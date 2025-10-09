@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Activity Results</string>
+    <string name="header_text_main">Haz click en el boton para escoger tu color favorito</string>
+    <string name="header_text_picker">Lista de colores</string>
+    <string name="footer_text_picker">selecciona tu color favorito :D</string>
+    <string name="color_chosen_message">%s es tu color favorito!
+    </string>
+    <string name="submit_button_text">ELIGE TU COLOR</string>
+    <string name="red">ROJO</string>
+    <string name="orange">NARANJA</string>
+    <string name="yellow">AMARILLO</string>
+    <string name="green">VERDE</string>
+    <string name="blue">AZUL</string>
+    <string name="indigo">INDIGO</string>
+    <string name="violet">VIOLETA</string>
+    <string name="unexpected_color">Unexpected color</string>
+    <string name="title_activity_color_picker">
+ColorPickerActivity</string>
+</resources>
