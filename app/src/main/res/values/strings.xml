@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SaveAndRestore</string>
+    <string name="generate_random_number">
+    GENERAR NUMERO RANDOM
+</string>
+    <string name="random_number_message">
+    Numero Random: %d
+</string>
+
+</resources>
